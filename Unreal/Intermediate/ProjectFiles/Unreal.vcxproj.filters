@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Unreal.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Unreal.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnrealEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Unreal">
+      <UniqueIdentifier>{9F04A4C1-E08F-3C1A-AB77-4B66972AADE5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Unreal\TP_PickUpComponent.cpp">
+      <Filter>Source\Unreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal\TP_PickUpComponent.h">
+      <Filter>Source\Unreal</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal\TP_WeaponComponent.cpp">
+      <Filter>Source\Unreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal\TP_WeaponComponent.h">
+      <Filter>Source\Unreal</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Unreal\Unreal.Build.cs">
+      <Filter>Source\Unreal</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Unreal\Unreal.cpp">
+      <Filter>Source\Unreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal\Unreal.h">
+      <Filter>Source\Unreal</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal\UnrealCharacter.cpp">
+      <Filter>Source\Unreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal\UnrealCharacter.h">
+      <Filter>Source\Unreal</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal\UnrealGameMode.cpp">
+      <Filter>Source\Unreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal\UnrealGameMode.h">
+      <Filter>Source\Unreal</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal\UnrealPlayerController.cpp">
+      <Filter>Source\Unreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal\UnrealPlayerController.h">
+      <Filter>Source\Unreal</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal\UnrealProjectile.cpp">
+      <Filter>Source\Unreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal\UnrealProjectile.h">
+      <Filter>Source\Unreal</Filter>
+    </ClInclude>
+    <Filter Include="Source\Unreal\Private">
+      <UniqueIdentifier>{8C1CA0A4-A6A6-354E-B1BE-C00B2D6C92FF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Unreal\Private\EnemyAI.cpp">
+      <Filter>Source\Unreal\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Unreal\Private\MyGameModeBase.cpp">
+      <Filter>Source\Unreal\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Unreal\Private\MyPlayerController.cpp">
+      <Filter>Source\Unreal\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Unreal\Private\NetworkManager.cpp">
+      <Filter>Source\Unreal\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Unreal\Private\PlayerCharacter.cpp">
+      <Filter>Source\Unreal\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Unreal\Private\Weapon.cpp">
+      <Filter>Source\Unreal\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Unreal\Public">
+      <UniqueIdentifier>{0CEF9088-119E-377B-901B-5CEAB8728B41}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Unreal\Public\EnemyAI.h">
+      <Filter>Source\Unreal\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Unreal\Public\MyGameModeBase.h">
+      <Filter>Source\Unreal\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Unreal\Public\MyPlayerController.h">
+      <Filter>Source\Unreal\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Unreal\Public\NetworkManager.h">
+      <Filter>Source\Unreal\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Unreal\Public\PlayerCharacter.h">
+      <Filter>Source\Unreal\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Unreal\Public\Weapon.h">
+      <Filter>Source\Unreal\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

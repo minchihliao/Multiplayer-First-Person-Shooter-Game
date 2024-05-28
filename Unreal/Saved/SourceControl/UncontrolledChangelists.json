@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Program/Unreal/Multiplayer-First-Person-Shooter-Game/Unreal/Content/Blueprints/EnemyAIBP.uasset",
+				"D:/Program/Unreal/Multiplayer-First-Person-Shooter-Game/Unreal/Content/Blueprints/GameModeBP.uasset",
+				"D:/Program/Unreal/Multiplayer-First-Person-Shooter-Game/Unreal/Content/Blueprints/NetworkManagerBP.uasset",
+				"D:/Program/Unreal/Multiplayer-First-Person-Shooter-Game/Unreal/Content/Blueprints/PlayerCharacterBP.uasset",
+				"D:/Program/Unreal/Multiplayer-First-Person-Shooter-Game/Unreal/Content/Blueprints/PlayerControllerBP.uasset",
+				"D:/Program/Unreal/Multiplayer-First-Person-Shooter-Game/Unreal/Content/Blueprints/WeaponBP.uasset"
+			]
+		}
+	]
+}

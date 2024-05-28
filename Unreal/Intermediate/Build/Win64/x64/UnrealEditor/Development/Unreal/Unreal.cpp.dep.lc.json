@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\program\\unreal\\multiplayer-first-person-shooter-game\\unreal\\source\\unreal\\unreal.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\program\\unreal\\multiplayer-first-person-shooter-game\\unreal\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\program\\unreal\\multiplayer-first-person-shooter-game\\unreal\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unreal\\definitions.unreal.h",
+            "d:\\program\\unreal\\multiplayer-first-person-shooter-game\\unreal\\source\\unreal\\unreal.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

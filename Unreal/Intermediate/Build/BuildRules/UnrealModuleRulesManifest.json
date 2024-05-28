@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Program\\Unreal\\Multiplayer-First-Person-Shooter-Game\\Unreal\\Source\\Unreal\\Unreal.Build.cs",
+		"D:\\Program\\Unreal\\Multiplayer-First-Person-Shooter-Game\\Unreal\\Source\\Unreal.Target.cs",
+		"D:\\Program\\Unreal\\Multiplayer-First-Person-Shooter-Game\\Unreal\\Source\\UnrealEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.1"
+}
